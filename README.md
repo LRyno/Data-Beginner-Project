@@ -23,6 +23,7 @@ Repositori ini berisi berbagai proyek analisis data sederhana yang saya kerjakan
 Berikut adalah daftar proyek yang terdapat dalam repositori ini:
 
 * **Proyek 1:** Analisis Penjualan Sederhana
+* **Proyek 2:** Analisis Industri Aceh
 
 ## Cara Menjalankan Proyek
 
