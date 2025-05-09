@@ -24,7 +24,7 @@ Berikut adalah daftar proyek yang terdapat dalam repositori ini:
 
 * **Proyek 1:** Analisis Penjualan Sederhana
 * **Proyek 2:** Analisis Industri Aceh
-* **Proyek 3:** Analisis Customersw
+* **Proyek 3:** Analisis Customers
 
 ## Cara Menjalankan Proyek
 
