@@ -1,0 +1,9 @@
+Customer ID,Name,Gender,Email,Join Date,Country,Purchase Amount
+C001,Alice,Female,alice@example.com,2023-01-10,USA,250.0
+C002,Bob,Male,bob@example.com,2023/02/15,USA,300.5
+C003,Charlie,Male,charlie@example.com,15-03-2023,UK,
+C004,David,Male,david@example,2023-04-20,UK,150.0
+C005,Eve,Female,eve@example.com,2023-05-25,USA,400.0
+C006,Frank,,frank@example.com,2023-06-30,UK,200.75
+C002,Bob,Male,bob@example.com,2023/02/15,USA,300.5
+,George,Male,george@example.com,2023-07-15,,500.0
