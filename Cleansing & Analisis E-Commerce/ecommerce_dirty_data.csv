@@ -1,0 +1,101 @@
+Order ID,Customer Name,Country,Order Date,Product,Category,Quantity,Price per Unit,Total Amount,Rating
+ORD-1000,Diana,India,2023-01-01,Phone,Electronics,5,"$1,623.33","$13,364.93",3 stars
+ORD-1001,Eve,USA,2023-01-02,Headphones,Gadgets,1,"$1,981.49","$6,889.29",Not Rated
+ORD-1002,,India,2023-01-03,Laptop,Electronics,8,$854.60,"$9,339.98",Not Rated
+ORD-1003,Eve,UK,2023-01-04,Laptop,Electronics,5,$775.44,$-999.99,5 stars
+ORD-1004,Eve,USA,2023-01-05,Camera,Accessories,5,"$1,564.01","$2,903.01",3 stars
+ORD-1005,Bob,Japan,2023-01-06,Unknown [deprecated],Electronics,7,"USD 1,000.00","$7,009.11",3 stars
+ORD-1006,Charlie,Germany,2023-01-07,Monitor,Office,4,"$1,864.98","$5,364.95",3 stars
+ORD-1007,Charlie,India,2023-01-08,Headphones,Office,6,"$1,723.90","$8,796.48",nan
+ORD-1008,Charlie,Germany,2023-01-09,Camera,Gadgets,4,$886.54,"$1,258.25",4 stars
+ORD-1009,Eve,Germany,2023-01-10,Camera,Electronics,3,"$1,514.20","$14,618.48",nan
+ORD-1010,Diana,USA,2023-01-11,Headphones,Gadgets,7,"$1,521.36","$14,794.54",4 stars
+ORD-1011,Charlie,Germany,2023-01-12,Camera,Office,8,$251.09,"$10,502.61",3 stars
+ORD-1012,Eve,Japan,2023-01-13,Headphones,Electronics,4,"$1,809.98","$8,087.84",3 stars
+ORD-1013,Bob,Germany,2023-01-14,Phone,Electronics,2,"$1,035.24","$4,711.96",nan
+ORD-1014,Diana,USA,2023-01-15,Headphones,Gadgets,3,"$1,661.59","$12,225.55",nan
+ORD-1015,Bob,Japan,2023-01-16,Headphones,Office,1,$674.10,"$10,302.49",4 stars
+ORD-1016,Diana,UK,2023-01-17,Camera,Electronics,8,"$1,796.27","$2,522.99",Not Rated
+ORD-1017,Eve,Germany,2023-01-18,Camera,Gadgets,3,$808.94,"$13,672.82",4 stars
+ORD-1018,Alice,USA,2023-01-19,Laptop,Office,7,$71.13,"$12,355.80",nan
+ORD-1019,Diana,UK,2023-01-20,Laptop,Gadgets,5,"$1,815.49","$14,252.02",nan
+ORD-1020,Bob,UK,2023-01-21,Phone,Accessories,5,$228.01,"$10,913.22",5 stars
+ORD-1021,Eve,India,2023-01-22,Laptop,Electronics,7,$672.66,"$9,239.89",nan
+ORD-1022,Diana,Japan,2023-01-23,Headphones,Accessories,9,"$1,902.62","$6,331.82",5 stars
+ORD-1023,,Germany,2023-01-24,Camera,Office,5,"$1,903.68","$13,997.65",Not Rated
+ORD-1024,Alice,USA,2023-01-25,Laptop,Accessories,1,"$1,168.20","$13,004.35",4 stars
+ORD-1025,Charlie,India,2023-01-26,Laptop,Accessories,1,"$1,282.08",$773.76,4 stars
+ORD-1026,Charlie,Japan,2023-01-27,Phone,Office,2,$924.47,$492.87,5 stars
+ORD-1027,Bob,India,2023-01-28,Phone,Gadgets,6,$621.76,"$5,709.30",4 stars
+ORD-1028,Diana,Japan,2023-01-29,Headphones,Accessories,9,$690.90,"$12,177.24",nan
+ORD-1029,Diana,Japan,2023-01-30,Camera,Gadgets,8,"$1,361.41","$14,810.41",3 stars
+ORD-1030,,Germany,2023-01-31,Phone,Accessories,5,"$1,517.13","$2,341.21",5 stars
+ORD-1031,Diana,Japan,2023-02-01,Laptop,Gadgets,1,"$1,593.58","$8,952.55",4 stars
+ORD-1032,Diana,India,2023-02-02,Camera,Office,7,"$1,589.76","$5,775.27",5 stars
+ORD-1033,Alice,Japan,2023-02-03,Camera,Accessories,5,$227.85,"$14,551.72",5 stars
+ORD-1034,Charlie,Germany,2023-02-04,Laptop,Office,6,"$1,014.12","$12,647.57",3 stars
+ORD-1035,,Germany,2023-02-05,Phone,Accessories,7,$162.24,"$12,591.10",nan
+ORD-1036,Charlie,India,2023-02-06,Laptop,Office,3,"$1,121.58","$7,083.53",5 stars
+ORD-1037,Eve,UK,2023-02-07,Camera,Office,3,$910.98,"$6,280.81",4 stars
+ORD-1038,Alice,UK,2023-02-08,Monitor,Accessories,5,"$1,781.02","$4,173.77",Not Rated
+ORD-1039,,Japan,2023-02-09,Monitor,Accessories,6,$734.28,$939.99,5 stars
+ORD-1040,Diana,USA,2023-02-10,Headphones,Accessories,9,$278.28,"$12,984.36",5 stars
+ORD-1041,Alice,Japan,2023-02-11,Laptop,Electronics,5,$328.83,"$12,212.23",3 stars
+ORD-1042,Diana,India,2023-02-12,Laptop,Gadgets,1,"$1,534.95","$14,995.79",nan
+ORD-1043,Bob,India,2023-02-13,Headphones,Electronics,4,"$1,255.53","$14,949.89",Not Rated
+ORD-1044,Bob,India,2023-02-14,Headphones,Electronics,5,$247.19,"$8,375.93",4 stars
+ORD-1045,Alice,India,2023-02-15,Headphones,Office,5,$214.01,"$11,557.91",Not Rated
+ORD-1046,Bob,India,2023-02-16,Camera,Accessories,7,"$1,416.89","$14,177.01",4 stars
+ORD-1047,Eve,Germany,2023-02-17,Laptop,Gadgets,4,$191.89,"$12,759.75",nan
+ORD-1048,Bob,UK,2023-02-18,Camera,Office,1,"$1,652.63","$3,785.49",4 stars
+ORD-1049,Diana,India,2023-02-19,Headphones,Electronics,5,"$1,427.17","$6,813.11",3 stars
+ORD-1050,Diana,USA,2023-02-20,Laptop,Accessories,7,"USD 1,000.00","$2,024.48",3 stars
+ORD-1051,Diana,USA,2023-02-21,Camera,Office,6,$215.43,"$14,315.36",3 stars
+ORD-1052,Diana,USA,2023-02-22,Camera,Accessories,5,"$1,973.95","$9,132.00",3 stars
+ORD-1053,Eve,USA,2023-02-23,Headphones,Office,4,$779.83,"$3,506.78",Not Rated
+ORD-1054,Charlie,Germany,2023-02-24,Laptop,Accessories,2,$772.75,"$10,108.34",nan
+ORD-1055,Alice,USA,2023-02-25,Headphones,Electronics,4,"$1,634.96","$9,310.11",4 stars
+ORD-1056,Diana,[US],2023-02-26,Laptop,Gadgets,3,"$1,897.13","$5,436.62",4 stars
+ORD-1057,Bob,Japan,2023-02-27,Monitor,Electronics,1,"$1,972.70","$1,792.01",3 stars
+ORD-1058,Diana,USA,2023-02-28,Phone,Gadgets,8,"$1,519.09","$10,106.44",3 stars
+ORD-1059,Bob,Germany,2023-03-01,Phone,Accessories,5,$783.71,"$7,852.58",5 stars
+ORD-1060,Bob,Germany,2023-03-02,Phone,Office,4,$212.83,"$11,607.54",nan
+ORD-1061,Diana,USA,2023-03-03,Headphones,Electronics,8,"USD 1,000.00","$7,850.44",Not Rated
+ORD-1062,Eve,Japan,2023-03-04,Monitor,Gadgets,7,"$1,138.89","$12,797.50",4 stars
+ORD-1063,Bob,USA,2023-03-05,Laptop,Electronics,2,$877.23,"$8,323.41",5 stars
+ORD-1064,Bob,Germany,2023-03-06,Camera,Gadgets,1,"$1,817.39","$8,457.98",5 stars
+ORD-1065,Diana,[US],2023-03-07,Unknown [deprecated],Electronics,4,$266.84,"$13,162.14",4 stars
+ORD-1066,Bob,India,2023-03-08,Camera,Gadgets,8,"$1,010.62","$6,111.89",Not Rated
+ORD-1067,Bob,Germany,2023-03-09,Laptop,Gadgets,2,$72.14,"$2,096.83",5 stars
+ORD-1068,Diana,USA,2023-03-10,Monitor,Accessories,3,$963.89,$528.86,5 stars
+ORD-1069,Diana,India,2023-03-11,Camera,Gadgets,1,$159.79,"$11,351.55",nan
+ORD-1070,Alice,USA,2023-03-12,Headphones,Accessories,1,$281.69,"$9,342.61",Not Rated
+ORD-1071,Eve,USA,2023-03-13,Laptop,Gadgets,3,$279.18,"$10,590.79",5 stars
+ORD-1072,Eve,UK,2023-03-14,Laptop,Office,5,"$1,315.96","$3,273.17",Not Rated
+ORD-1073,Bob,India,2023-03-15,Camera,Office,3,"$1,504.79","$2,131.93",4 stars
+ORD-1074,Eve,India,2023-03-16,Headphones,Office,1,"$1,187.57",$-999.99,3 stars
+ORD-1075,Bob,UK,2023-03-17,Headphones,Gadgets,1,"$1,926.24","$5,323.75",5 stars
+ORD-1076,Alice,Germany,2023-03-18,Monitor,Accessories,8,$781.00,"$8,889.77",nan
+ORD-1077,Diana,USA,2023-03-19,Headphones,Accessories,2,$607.14,"$5,944.44",4 stars
+ORD-1078,Diana,[US],2023-03-20,Headphones,Gadgets,3,"$1,743.77",$-999.99,Not Rated
+ORD-1079,Diana,USA,2023-03-21,Headphones,Office,2,$486.01,"$13,571.96",4 stars
+ORD-1080,Eve,USA,2023-03-22,Phone,Office,3,"$1,928.28","$5,289.01",5 stars
+ORD-1081,Alice,Germany,2023-03-23,Monitor,Accessories,7,$73.70,"$7,758.44",Not Rated
+ORD-1082,Eve,USA,2023-03-24,Laptop,Office,1,"$1,941.26","$11,776.43",3 stars
+ORD-1083,Eve,UK,2023-03-25,Unknown [deprecated],Electronics,8,$134.16,"$6,008.49",4 stars
+ORD-1084,Alice,UK,2023-03-26,Laptop,Accessories,2,"$1,787.73","$9,369.09",5 stars
+ORD-1085,Alice,India,2023-03-27,Monitor,Office,3,"$1,079.02","$12,949.22",nan
+ORD-1086,Alice,Japan,2023-03-28,Camera,Accessories,9,"$1,986.28","$14,247.86",Not Rated
+ORD-1087,Alice,USA,2023-03-29,Monitor,Electronics,7,$193.90,"$2,291.39",4 stars
+ORD-1088,Diana,USA,2023-03-30,Headphones,Accessories,4,"$1,130.02","$13,906.16",4 stars
+ORD-1089,Charlie,Germany,2023-03-31,Camera,Accessories,5,"$1,940.14","$7,432.53",3 stars
+ORD-1090,Charlie,UK,2023-04-01,Headphones,Accessories,2,"$1,070.04","$3,947.84",3 stars
+ORD-1091,Alice,Japan,2023-04-02,Unknown [deprecated],Accessories,8,"$1,277.33","$6,941.12",nan
+ORD-1092,Charlie,India,2023-04-03,Laptop,Electronics,4,"$1,406.71","$14,702.49",nan
+ORD-1093,Charlie,UK,2023-04-04,Camera,Gadgets,9,"USD 1,000.00","$7,440.01",5 stars
+ORD-1094,Alice,India,2023-04-05,Unknown [deprecated],Accessories,5,"$1,273.74","$4,998.40",5 stars
+ORD-1095,Charlie,Germany,2023-04-06,Monitor,Accessories,9,"$1,189.41","$9,537.67",nan
+ORD-1096,Eve,Germany,2023-04-07,Monitor,Office,4,"$1,807.26","$3,678.17",nan
+ORD-1097,Bob,USA,2023-04-08,Headphones,Accessories,5,$138.62,"$1,230.36",Not Rated
+ORD-1098,Bob,Japan,2023-04-09,Camera,Office,9,$597.88,"$2,020.31",3 stars
+ORD-1099,Alice,India,2023-04-10,Laptop,Gadgets,8,"$1,903.30","$2,007.88",5 stars
