@@ -1,0 +1,101 @@
+Employee ID,Employee Name,Join Date,Department,Gender,Monthly Salary,Performance Rating
+EMP1000,Edward Smith,15/02/2023,HR,M,"9,270",Good
+EMP1001,Diana  ,2023-01-15,IT,M,"9,603",Poor
+EMP1002,Alice  ,"March 3, 2023",IT,unknown,2860 USD,
+EMP1003,Bob  Smith,2023/04/05,IT,M,"$7,390",N/A
+EMP1004,Julia ,07.07.2023,Finance,f,7226 USD,Average
+EMP1005,BobJohnson,"March 3, 2023",Sales,Male,USD 7191,
+EMP1006,George Johnson,05-06-2023,IT,unknown,5772 USD,N/A
+EMP1007,Julia,15/02/2023,,M,"5,092",Good
+EMP1008,George ,07.07.2023,IT,FEMALE,"$7,734",N/A
+EMP1009,Ivan ,"March 3, 2023",IT,M,USD 8265,N/A
+EMP1010,Bob,"March 3, 2023",Fin,,"2,466",Excellent
+EMP1011,Bob  ,2023/04/05,Finance,,USD 7334,
+EMP1012,Fiona  Johnson,15/02/2023,IT,,USD 6426,N/A
+EMP1013,Edward,"March 3, 2023",Sales,M,"$7,578",
+EMP1014,Edward ,05-06-2023,IT,M,8231 USD,
+EMP1015,BobJohnson,15/02/2023,Fin,M,"$5,444",
+EMP1016,Diana,2023/04/05,Finance,unknown,5171 USD,
+EMP1017,Edward  ,2023/04/05,I.T.,Male,"$4,919",
+EMP1018,Ivan Johnson,2023/04/05,Fin,,9831 USD,
+EMP1019,Fiona  ,"March 3, 2023",HR,f,"2,130",Poor
+EMP1020,Alice  ,Aug 8 2023,,M,3685 USD,Poor
+EMP1021,George Johnson,2023-01-15,Finance,M,"9,476",
+EMP1022,HanaJohnson,2023-01-15,sales,Male,USD 2769,
+EMP1023,Bob  ,07.07.2023,Sales,unknown,4391 USD,
+EMP1024,Edward Smith,2023/04/05,HR,f,"7,611",Poor
+EMP1025,George  Smith,Aug 8 2023,sales,unknown,"9,581",N/A
+EMP1026,Fiona ,Aug 8 2023,Human Resources,unknown,"$8,949",Good
+EMP1027,Alice ,2023/04/05,HR,f,"4,433",Poor
+EMP1028,George ,05-06-2023,Human Resources,,"$7,311",Good
+EMP1029,AliceSmith,07.07.2023,Finance,f,USD 7051,Excellent
+EMP1030,Fiona  Smith,15/02/2023,HR,M,8420 USD,Good
+EMP1031,Ivan Johnson,"March 3, 2023",sales,FEMALE,USD 3184,N/A
+EMP1032,Fiona  Smith,2023/04/05,sales,,"$6,555",
+EMP1033,Diana Johnson,Aug 8 2023,sales,,"5,385",Excellent
+EMP1034,Edward Smith,2023-01-15,I.T.,M,6117 USD,Average
+EMP1035,AliceSmith,"March 3, 2023",I.T.,,"8,396",Excellent
+EMP1036,Fiona ,2023/04/05,IT,M,"6,843",Good
+EMP1037,Fiona ,"March 3, 2023",Sales,FEMALE,4904 USD,Average
+EMP1038,Charlie,2023-01-15,Sales,Male,"9,728",Good
+EMP1039,Fiona  ,Aug 8 2023,,unknown,"2,474",
+EMP1040,Ivan ,2023/04/05,Fin,FEMALE,"3,082",Good
+EMP1041,EdwardJohnson,"March 3, 2023",Human Resources,unknown,"4,558",Excellent
+EMP1042,Hana,Aug 8 2023,HR,,9849 USD,Good
+EMP1043,Fiona  Smith,2023/04/05,Finance,M,4047 USD,Excellent
+EMP1044,Alice  ,15/02/2023,Human Resources,f,"$9,643",Average
+EMP1045,Bob  Johnson,05-06-2023,Human Resources,f,"$4,747",Excellent
+EMP1046,DianaJohnson,"March 3, 2023",HR,Male,"$2,975",Good
+EMP1047,Alice  Johnson,2023/04/05,IT,unknown,"$3,806",Average
+EMP1048,Edward Smith,"March 3, 2023",Fin,f,USD 2189,Excellent
+EMP1049,Fiona  Smith,15/02/2023,Sales,,"$9,101",Poor
+EMP1050,Edward,"March 3, 2023",IT,f,4734 USD,Average
+EMP1051,Alice Johnson,"March 3, 2023",Fin,M,"$5,005",Average
+EMP1052,Edward,15/02/2023,Finance,unknown,"6,658",Poor
+EMP1053,Ivan  Johnson,"March 3, 2023",Sales,M,"$3,899",Good
+EMP1054,Hana  Johnson,05-06-2023,Sales,FEMALE,"9,734",
+EMP1055,Edward  Smith,"March 3, 2023",IT,unknown,"$3,267",Excellent
+EMP1056,Hana Smith,2023/04/05,,FEMALE,USD 8975,Excellent
+EMP1057,Charlie  Smith,07.07.2023,sales,,"$3,528",
+EMP1058,HanaSmith,05-06-2023,I.T.,FEMALE,"5,202",N/A
+EMP1059,Ivan Johnson,07.07.2023,Finance,unknown,5556 USD,Poor
+EMP1060,Charlie  Smith,15/02/2023,IT,Male,"5,890",Average
+EMP1061,EdwardSmith,2023-01-15,HR,M,2646 USD,Average
+EMP1062,HanaSmith,"March 3, 2023",Fin,FEMALE,"$8,164",Excellent
+EMP1063,Charlie Johnson,07.07.2023,,f,"4,888",Poor
+EMP1064,HanaSmith,15/02/2023,Human Resources,FEMALE,"8,310",N/A
+EMP1065,George Smith,07.07.2023,Finance,unknown,USD 7393,N/A
+EMP1066,Hana,2023/04/05,Sales,,USD 4435,N/A
+EMP1067,Diana ,2023-01-15,,FEMALE,USD 2600,
+EMP1068,Bob  Johnson,05-06-2023,Human Resources,FEMALE,USD 4363,
+EMP1069,Hana ,2023-01-15,IT,Male,"$4,061",Average
+EMP1070,Ivan  Smith,"March 3, 2023",Human Resources,,USD 2241,Excellent
+EMP1071,EdwardSmith,2023/04/05,,FEMALE,4041 USD,
+EMP1072,Charlie,Aug 8 2023,Fin,unknown,"$4,824",
+EMP1073,Bob ,07.07.2023,I.T.,M,USD 9513,Poor
+EMP1074,Julia Johnson,"March 3, 2023",IT,M,"$4,612",Average
+EMP1075,Alice Johnson,2023-01-15,Fin,Male,"$9,041",
+EMP1076,Diana Smith,Aug 8 2023,Finance,,"$3,363",Poor
+EMP1077,Hana ,"March 3, 2023",,unknown,"8,235",Poor
+EMP1078,George  ,2023/04/05,sales,Male,7486 USD,Good
+EMP1079,GeorgeSmith,2023/04/05,HR,,"9,099",
+EMP1080,Alice  Johnson,05-06-2023,HR,M,"$3,478",
+EMP1081,Charlie,2023/04/05,sales,,"$9,595",Good
+EMP1082,Bob  Smith,2023-01-15,,,"$4,556",N/A
+EMP1083,Alice,15/02/2023,Fin,Male,2775 USD,Average
+EMP1084,Hana  Johnson,05-06-2023,HR,Male,"$6,014",
+EMP1085,Ivan,05-06-2023,Fin,,2034 USD,Average
+EMP1086,Fiona Johnson,15/02/2023,Sales,,USD 8349,N/A
+EMP1087,GeorgeSmith,05-06-2023,,f,"5,152",
+EMP1088,Ivan,07.07.2023,HR,f,"$3,955",Excellent
+EMP1089,Hana  ,07.07.2023,Sales,,3585 USD,Excellent
+EMP1090,Hana  Smith,07.07.2023,HR,M,"$5,943",Excellent
+EMP1091,IvanSmith,07.07.2023,Sales,FEMALE,9555 USD,N/A
+EMP1092,Alice  ,2023-01-15,I.T.,Male,"5,073",Average
+EMP1093,AliceSmith,2023-01-15,I.T.,FEMALE,3021 USD,Average
+EMP1094,Bob,05-06-2023,,unknown,USD 5461,
+EMP1095,Diana  ,"March 3, 2023",HR,f,"4,613",
+EMP1096,Ivan,Aug 8 2023,I.T.,f,"7,225",
+EMP1097,Diana  ,07.07.2023,IT,M,"$5,843",
+EMP1098,Charlie  ,05-06-2023,Sales,f,USD 9989,Average
+EMP1099,Alice  Smith,15/02/2023,I.T.,M,"$3,500",Poor
