@@ -30,6 +30,7 @@ Berikut adalah daftar proyek yang terdapat dalam repositori ini:
 * **Proyek 6:** Cleansing & Analisis Artist
 * **Proyek 7:** Cleansing & Analisis E-Commerce
 * **Proyek 8:** Cleansing & Analisis Employee
+* **Proyek 9:** Cleansing & Analisis Movies
 
 ## Cara Menjalankan Proyek
 
