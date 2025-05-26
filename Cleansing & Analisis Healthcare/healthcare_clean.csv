@@ -1,0 +1,225 @@
+Patient Name,Age,Gender,Condition,Medication,Visit Date,Blood Pressure,Cholesterol,Email,Phone Number
+ David Lee ,25.0,Other,Heart Disease,METFORMIN,2020-01-15,140/90,200.0,name@hospital.org,555-555-5555
+ Laura Martinez ,60.0,Other,Heart Disease,NONE,2020-01-15,140/90,180.0,name@hospital.org,
+ Laura Martinez ,40.0,Male,Diabetes,ALBUTEROL,2019-03-25,140/90,180.0,,123-456-7890
+ Michael Wilson ,35.0,Female,Heart Disease,ATORVASTATIN,2019-03-25,110/70,180.0,,123-456-7890
+ Laura Martinez ,70.0,Female,Asthma,METFORMIN,2019-03-25,130/85,160.0,contact@domain.com,098-765-4321
+ Jane Smith ,70.0,Male,Heart Disease,NONE,2019-03-25,110/70,160.0,contact@domain.com,
+ John Doe ,25.0,Male,Asthma,LISINOPRIL,2020-01-15,140/90,200.0,contact@domain.com,098-765-4321
+ James Taylor ,25.0,Female,,NONE,2020-01-15,140/90,200.0,,098-765-4321
+ Robert Brown ,70.0,Male,Asthma,METFORMIN,2020-01-15,140/90,220.0,contact@domain.com,098-765-4321
+ Robert Brown ,60.0,Female,Diabetes,LISINOPRIL,2019-03-25,110/70,160.0,,098-765-4321
+ James Taylor ,25.0,Female,Asthma,LISINOPRIL,2020-01-15,110/70,200.0,contact@domain.com,
+ Mary Clark ,25.0,Other,Heart Disease,METFORMIN,2020-01-15,110/70,180.0,name@hospital.org,098-765-4321
+ David Lee ,70.0,Other,Heart Disease,NONE,2020-01-15,110/70,220.0,name@hospital.org,
+ Robert Brown ,40.0,Male,Diabetes,METFORMIN,2020-01-15,110/70,180.0,,555-555-5555
+ Jane Smith ,35.0,Female,Hypertension,ALBUTEROL,2020-01-15,140/90,160.0,name@hospital.org,555-555-5555
+ Laura Martinez ,25.0,Other,Hypertension,METFORMIN,2019-03-25,130/85,220.0,,123-456-7890
+ Laura Martinez ,60.0,Other,Diabetes,METFORMIN,2020-01-15,130/85,220.0,,555-555-5555
+ Mary Clark ,25.0,Male,Heart Disease,ALBUTEROL,2019-03-25,140/90,220.0,name@hospital.org,123-456-7890
+ Laura Martinez ,25.0,Male,Hypertension,ATORVASTATIN,2019-03-25,130/85,160.0,patient@example.com,
+ James Taylor ,60.0,Male,Heart Disease,ATORVASTATIN,2020-01-15,120/80,220.0,contact@domain.com,555-555-5555
+ David Lee ,40.0,Male,Asthma,NONE,2020-01-15,140/90,220.0,,123-456-7890
+ Robert Brown ,35.0,Female,Asthma,LISINOPRIL,2020-01-15,120/80,220.0,,123-456-7890
+ John Doe ,60.0,Male,Asthma,ALBUTEROL,2020-01-15,120/80,220.0,contact@domain.com,098-765-4321
+ Michael Wilson ,35.0,Female,Diabetes,ALBUTEROL,2020-01-15,120/80,200.0,,098-765-4321
+ Robert Brown ,25.0,Female,,NONE,2020-01-15,110/70,180.0,,555-555-5555
+ Sarah Johnson ,60.0,Other,Diabetes,ATORVASTATIN,2020-01-15,120/80,180.0,contact@domain.com,
+ James Taylor ,60.0,Female,Diabetes,ATORVASTATIN,2019-03-25,140/90,200.0,,098-765-4321
+ Emily Davis ,70.0,Other,,LISINOPRIL,2019-03-25,110/70,180.0,name@hospital.org,
+ Robert Brown ,40.0,Male,Diabetes,METFORMIN,2019-03-25,140/90,180.0,,
+ David Lee ,25.0,Other,,NONE,2020-01-15,130/85,160.0,contact@domain.com,123-456-7890
+ Sarah Johnson ,60.0,Female,Diabetes,ALBUTEROL,2019-03-25,110/70,220.0,contact@domain.com,
+ Laura Martinez ,35.0,Female,Asthma,ATORVASTATIN,2019-03-25,120/80,180.0,name@hospital.org,
+ Laura Martinez ,25.0,Female,Diabetes,LISINOPRIL,2020-01-15,130/85,200.0,patient@example.com,123-456-7890
+ James Taylor ,60.0,Male,Heart Disease,NONE,2019-03-25,110/70,160.0,,123-456-7890
+ John Doe ,35.0,Female,Asthma,METFORMIN,2020-01-15,120/80,160.0,patient@example.com,123-456-7890
+ John Doe ,40.0,Male,,LISINOPRIL,2019-03-25,130/85,180.0,name@hospital.org,555-555-5555
+ John Doe ,60.0,Other,Heart Disease,LISINOPRIL,2019-03-25,140/90,200.0,,123-456-7890
+ David Lee ,40.0,Male,Hypertension,ATORVASTATIN,2019-03-25,110/70,180.0,contact@domain.com,
+ Jane Smith ,70.0,Male,Diabetes,LISINOPRIL,2019-03-25,110/70,220.0,name@hospital.org,555-555-5555
+ Sarah Johnson ,25.0,Male,,LISINOPRIL,2020-01-15,110/70,160.0,name@hospital.org,123-456-7890
+ David Lee ,40.0,Female,Asthma,ATORVASTATIN,2019-03-25,110/70,220.0,contact@domain.com,
+ Jane Smith ,70.0,Male,,ALBUTEROL,2019-03-25,110/70,200.0,,098-765-4321
+ Robert Brown ,35.0,Female,Heart Disease,ATORVASTATIN,2020-01-15,140/90,220.0,patient@example.com,098-765-4321
+ Emily Davis ,40.0,Male,Hypertension,LISINOPRIL,2019-03-25,120/80,160.0,patient@example.com,123-456-7890
+ Laura Martinez ,70.0,Other,Diabetes,METFORMIN,2019-03-25,110/70,200.0,,123-456-7890
+ David Lee ,40.0,Female,Hypertension,ATORVASTATIN,2019-03-25,130/85,220.0,,123-456-7890
+ James Taylor ,70.0,Female,,NONE,2020-01-15,120/80,200.0,,
+ James Taylor ,40.0,Other,Diabetes,ATORVASTATIN,2020-01-15,110/70,220.0,contact@domain.com,098-765-4321
+ Mary Clark ,40.0,Male,,ATORVASTATIN,2019-03-25,140/90,180.0,name@hospital.org,
+ Robert Brown ,70.0,Male,Heart Disease,ALBUTEROL,2020-01-15,120/80,160.0,patient@example.com,
+ Emily Davis ,70.0,Other,Heart Disease,ALBUTEROL,2019-03-25,110/70,200.0,contact@domain.com,123-456-7890
+ Jane Smith ,40.0,Male,Heart Disease,METFORMIN,2019-03-25,120/80,200.0,patient@example.com,098-765-4321
+ David Lee ,60.0,Female,Asthma,METFORMIN,2020-01-15,120/80,220.0,patient@example.com,555-555-5555
+ Robert Brown ,25.0,Male,,METFORMIN,2019-03-25,110/70,160.0,patient@example.com,
+ Emily Davis ,35.0,Other,Asthma,METFORMIN,2020-01-15,110/70,160.0,patient@example.com,123-456-7890
+ James Taylor ,60.0,Other,Hypertension,ALBUTEROL,2020-01-15,110/70,180.0,patient@example.com,123-456-7890
+ Robert Brown ,60.0,Female,Hypertension,NONE,2020-01-15,120/80,160.0,name@hospital.org,098-765-4321
+ James Taylor ,35.0,Female,Asthma,ATORVASTATIN,2019-03-25,110/70,220.0,name@hospital.org,555-555-5555
+ Sarah Johnson ,35.0,Male,,ATORVASTATIN,2019-03-25,120/80,160.0,patient@example.com,098-765-4321
+ Robert Brown ,35.0,Other,Heart Disease,ALBUTEROL,2019-03-25,140/90,180.0,patient@example.com,555-555-5555
+ Robert Brown ,35.0,Female,Diabetes,ALBUTEROL,2019-03-25,130/85,160.0,,
+ John Doe ,35.0,Other,Hypertension,METFORMIN,2020-01-15,130/85,180.0,name@hospital.org,123-456-7890
+ Robert Brown ,25.0,Other,Heart Disease,NONE,2019-03-25,140/90,200.0,,555-555-5555
+ David Lee ,35.0,Male,,LISINOPRIL,2019-03-25,110/70,160.0,,
+ Sarah Johnson ,35.0,Male,Hypertension,NONE,2019-03-25,140/90,180.0,patient@example.com,
+ Laura Martinez ,40.0,Female,Asthma,METFORMIN,2019-03-25,140/90,220.0,,
+ John Doe ,40.0,Male,Diabetes,ATORVASTATIN,2019-03-25,120/80,180.0,,098-765-4321
+ John Doe ,25.0,Other,Diabetes,LISINOPRIL,2019-03-25,130/85,220.0,patient@example.com,098-765-4321
+ James Taylor ,60.0,Male,Diabetes,LISINOPRIL,2019-03-25,130/85,200.0,,123-456-7890
+ John Doe ,35.0,Other,,NONE,2020-01-15,120/80,220.0,,555-555-5555
+ Jane Smith ,70.0,Male,Hypertension,ALBUTEROL,2019-03-25,130/85,160.0,,
+ Jane Smith ,25.0,Male,Asthma,LISINOPRIL,2019-03-25,110/70,220.0,name@hospital.org,
+ Laura Martinez ,40.0,Other,Heart Disease,LISINOPRIL,2019-03-25,110/70,180.0,,
+ David Lee ,40.0,Female,Diabetes,METFORMIN,2020-01-15,110/70,160.0,,098-765-4321
+ Laura Martinez ,60.0,Male,Diabetes,METFORMIN,2019-03-25,120/80,180.0,,098-765-4321
+ James Taylor ,70.0,Other,,METFORMIN,2019-03-25,130/85,180.0,patient@example.com,123-456-7890
+ Sarah Johnson ,35.0,Male,Diabetes,ATORVASTATIN,2020-01-15,110/70,200.0,,555-555-5555
+ James Taylor ,35.0,Male,Hypertension,ALBUTEROL,2020-01-15,110/70,200.0,,098-765-4321
+ Sarah Johnson ,25.0,Male,Hypertension,NONE,2019-03-25,110/70,200.0,patient@example.com,
+ Robert Brown ,40.0,Male,Hypertension,LISINOPRIL,2019-03-25,120/80,220.0,,123-456-7890
+ David Lee ,25.0,Male,Heart Disease,METFORMIN,2020-01-15,110/70,160.0,name@hospital.org,
+ John Doe ,35.0,Female,,NONE,2019-03-25,140/90,160.0,name@hospital.org,
+ Michael Wilson ,60.0,Other,Asthma,NONE,2020-01-15,120/80,220.0,,555-555-5555
+ David Lee ,35.0,Male,Diabetes,ALBUTEROL,2020-01-15,140/90,160.0,name@hospital.org,
+ Sarah Johnson ,60.0,Female,Asthma,NONE,2020-01-15,140/90,200.0,contact@domain.com,098-765-4321
+ Robert Brown ,70.0,Female,Heart Disease,ATORVASTATIN,2019-03-25,130/85,160.0,,
+ Mary Clark ,70.0,Male,,ALBUTEROL,2019-03-25,130/85,160.0,,
+ David Lee ,25.0,Other,Heart Disease,ATORVASTATIN,2019-03-25,110/70,220.0,name@hospital.org,
+ Emily Davis ,25.0,Female,Asthma,ALBUTEROL,2020-01-15,120/80,200.0,name@hospital.org,
+ Michael Wilson ,70.0,Male,Diabetes,NONE,2020-01-15,140/90,200.0,,555-555-5555
+ Mary Clark ,60.0,Male,Diabetes,LISINOPRIL,2020-01-15,120/80,160.0,,098-765-4321
+ Emily Davis ,70.0,Female,Heart Disease,NONE,2020-01-15,130/85,220.0,name@hospital.org,123-456-7890
+ Jane Smith ,25.0,Male,Asthma,NONE,2019-03-25,120/80,200.0,name@hospital.org,
+ Robert Brown ,35.0,Other,Hypertension,METFORMIN,2020-01-15,140/90,220.0,,
+ John Doe ,40.0,Male,Asthma,METFORMIN,2020-01-15,110/70,180.0,,123-456-7890
+ Laura Martinez ,60.0,Other,Heart Disease,NONE,2019-03-25,110/70,220.0,,098-765-4321
+ Robert Brown ,25.0,Male,Asthma,ATORVASTATIN,2020-01-15,110/70,200.0,,555-555-5555
+ David Lee ,25.0,Male,Diabetes,ALBUTEROL,2019-03-25,120/80,160.0,,
+ David Lee ,35.0,Female,Diabetes,ALBUTEROL,2019-03-25,120/80,220.0,,123-456-7890
+ James Taylor ,25.0,Female,,NONE,2019-03-25,120/80,160.0,,123-456-7890
+ James Taylor ,60.0,Other,Heart Disease,NONE,2020-01-15,130/85,160.0,name@hospital.org,
+ Sarah Johnson ,35.0,Male,Hypertension,ATORVASTATIN,2020-01-15,110/70,220.0,contact@domain.com,555-555-5555
+ Robert Brown ,35.0,Male,Diabetes,ATORVASTATIN,2019-03-25,140/90,200.0,patient@example.com,555-555-5555
+ David Lee ,40.0,Male,Diabetes,ALBUTEROL,2019-03-25,130/85,180.0,,123-456-7890
+ Emily Davis ,40.0,Other,Heart Disease,ATORVASTATIN,2019-03-25,130/85,200.0,,555-555-5555
+ Robert Brown ,70.0,Other,Heart Disease,ALBUTEROL,2020-01-15,120/80,200.0,patient@example.com,
+ Michael Wilson ,60.0,Other,Diabetes,LISINOPRIL,2020-01-15,140/90,220.0,patient@example.com,
+ James Taylor ,60.0,Male,Diabetes,ATORVASTATIN,2019-03-25,140/90,200.0,contact@domain.com,098-765-4321
+ Michael Wilson ,40.0,Other,Asthma,NONE,2020-01-15,140/90,200.0,,123-456-7890
+ Michael Wilson ,60.0,Female,Hypertension,LISINOPRIL,2019-03-25,130/85,220.0,patient@example.com,
+ Robert Brown ,25.0,Male,Diabetes,NONE,2020-01-15,140/90,220.0,name@hospital.org,555-555-5555
+ David Lee ,70.0,Male,Hypertension,NONE,2020-01-15,130/85,160.0,patient@example.com,555-555-5555
+ Mary Clark ,25.0,Female,Heart Disease,METFORMIN,2019-03-25,140/90,160.0,,123-456-7890
+ Mary Clark ,35.0,Female,Heart Disease,ATORVASTATIN,2019-03-25,130/85,200.0,contact@domain.com,555-555-5555
+ Mary Clark ,60.0,Male,,ATORVASTATIN,2019-03-25,140/90,200.0,contact@domain.com,
+ James Taylor ,25.0,Female,,ALBUTEROL,2020-01-15,140/90,160.0,,555-555-5555
+ Michael Wilson ,35.0,Male,Diabetes,LISINOPRIL,2020-01-15,130/85,200.0,,098-765-4321
+ Sarah Johnson ,40.0,Female,Hypertension,LISINOPRIL,2020-01-15,130/85,200.0,patient@example.com,555-555-5555
+ Emily Davis ,25.0,Other,Hypertension,NONE,2019-03-25,140/90,160.0,,
+ Mary Clark ,70.0,Male,Diabetes,NONE,2020-01-15,130/85,200.0,contact@domain.com,098-765-4321
+ Robert Brown ,60.0,Female,,LISINOPRIL,2019-03-25,110/70,220.0,contact@domain.com,
+ James Taylor ,70.0,Female,Hypertension,METFORMIN,2019-03-25,110/70,200.0,patient@example.com,098-765-4321
+ Laura Martinez ,35.0,Female,Hypertension,METFORMIN,2019-03-25,110/70,160.0,name@hospital.org,
+ Sarah Johnson ,40.0,Female,Asthma,METFORMIN,2019-03-25,110/70,220.0,,555-555-5555
+ Michael Wilson ,60.0,Female,Hypertension,NONE,2020-01-15,120/80,160.0,patient@example.com,
+ James Taylor ,40.0,Other,Asthma,ALBUTEROL,2019-03-25,140/90,200.0,contact@domain.com,555-555-5555
+ John Doe ,25.0,Male,Diabetes,NONE,2019-03-25,140/90,220.0,name@hospital.org,123-456-7890
+ Sarah Johnson ,40.0,Female,Hypertension,ALBUTEROL,2019-03-25,120/80,200.0,name@hospital.org,
+ Laura Martinez ,35.0,Female,Asthma,ATORVASTATIN,2020-01-15,130/85,180.0,,
+ Sarah Johnson ,40.0,Female,Diabetes,NONE,2019-03-25,130/85,220.0,patient@example.com,555-555-5555
+ Laura Martinez ,40.0,Other,,ALBUTEROL,2019-03-25,140/90,200.0,contact@domain.com,098-765-4321
+ Laura Martinez ,60.0,Female,Heart Disease,METFORMIN,2019-03-25,140/90,160.0,patient@example.com,123-456-7890
+ Mary Clark ,35.0,Female,Heart Disease,NONE,2020-01-15,120/80,200.0,name@hospital.org,
+ James Taylor ,60.0,Other,Asthma,NONE,2019-03-25,140/90,220.0,,
+ James Taylor ,35.0,Other,Heart Disease,ATORVASTATIN,2020-01-15,140/90,160.0,name@hospital.org,
+ Jane Smith ,35.0,Female,,NONE,2019-03-25,130/85,160.0,patient@example.com,
+ John Doe ,35.0,Female,Diabetes,ATORVASTATIN,2019-03-25,140/90,200.0,name@hospital.org,123-456-7890
+ Michael Wilson ,35.0,Male,Asthma,LISINOPRIL,2020-01-15,110/70,220.0,,555-555-5555
+ James Taylor ,25.0,Other,Diabetes,ALBUTEROL,2019-03-25,130/85,180.0,,098-765-4321
+ John Doe ,35.0,Female,Heart Disease,NONE,2020-01-15,130/85,220.0,,555-555-5555
+ Michael Wilson ,40.0,Male,Hypertension,LISINOPRIL,2020-01-15,110/70,200.0,name@hospital.org,
+ Michael Wilson ,70.0,Female,Asthma,NONE,2020-01-15,120/80,220.0,contact@domain.com,098-765-4321
+ Michael Wilson ,40.0,Female,Diabetes,ATORVASTATIN,2020-01-15,120/80,200.0,patient@example.com,555-555-5555
+ Mary Clark ,25.0,Male,,ATORVASTATIN,2020-01-15,130/85,180.0,,
+ Laura Martinez ,35.0,Other,,METFORMIN,2020-01-15,120/80,180.0,name@hospital.org,123-456-7890
+ Mary Clark ,40.0,Female,Hypertension,ALBUTEROL,2019-03-25,140/90,180.0,,
+ Sarah Johnson ,60.0,Female,Hypertension,ATORVASTATIN,2020-01-15,110/70,220.0,contact@domain.com,
+ John Doe ,40.0,Male,Asthma,LISINOPRIL,2019-03-25,140/90,160.0,name@hospital.org,123-456-7890
+ Michael Wilson ,25.0,Female,Heart Disease,METFORMIN,2019-03-25,140/90,200.0,contact@domain.com,
+ Jane Smith ,70.0,Female,Heart Disease,METFORMIN,2019-03-25,110/70,180.0,,555-555-5555
+ Emily Davis ,60.0,Other,Hypertension,ALBUTEROL,2020-01-15,140/90,200.0,contact@domain.com,123-456-7890
+ Sarah Johnson ,35.0,Female,Asthma,METFORMIN,2020-01-15,120/80,200.0,patient@example.com,555-555-5555
+ Jane Smith ,70.0,Other,Asthma,ALBUTEROL,2019-03-25,120/80,160.0,,
+ Robert Brown ,25.0,Female,Hypertension,ATORVASTATIN,2020-01-15,130/85,180.0,name@hospital.org,123-456-7890
+ Robert Brown ,40.0,Male,Asthma,ALBUTEROL,2019-03-25,140/90,180.0,,
+ Jane Smith ,60.0,Female,Asthma,ALBUTEROL,2019-03-25,140/90,200.0,contact@domain.com,123-456-7890
+ Michael Wilson ,40.0,Female,,NONE,2020-01-15,110/70,200.0,contact@domain.com,098-765-4321
+ Mary Clark ,40.0,Male,Asthma,ATORVASTATIN,2019-03-25,140/90,160.0,,098-765-4321
+ John Doe ,40.0,Female,,LISINOPRIL,2019-03-25,110/70,180.0,,123-456-7890
+ James Taylor ,60.0,Male,Asthma,ALBUTEROL,2020-01-15,130/85,160.0,name@hospital.org,555-555-5555
+ Laura Martinez ,25.0,Other,Diabetes,NONE,2020-01-15,130/85,180.0,name@hospital.org,555-555-5555
+ David Lee ,70.0,Female,Diabetes,ALBUTEROL,2020-01-15,110/70,180.0,patient@example.com,
+ Jane Smith ,35.0,Male,Heart Disease,LISINOPRIL,2019-03-25,120/80,180.0,patient@example.com,123-456-7890
+ Robert Brown ,40.0,Female,Heart Disease,ALBUTEROL,2019-03-25,140/90,200.0,contact@domain.com,123-456-7890
+ Robert Brown ,70.0,Other,,NONE,2019-03-25,110/70,160.0,patient@example.com,098-765-4321
+ James Taylor ,35.0,Other,,LISINOPRIL,2019-03-25,120/80,180.0,,555-555-5555
+ Sarah Johnson ,35.0,Female,Asthma,LISINOPRIL,2019-03-25,110/70,180.0,patient@example.com,123-456-7890
+ James Taylor ,60.0,Female,Diabetes,METFORMIN,2019-03-25,110/70,220.0,,098-765-4321
+ Jane Smith ,40.0,Other,Diabetes,LISINOPRIL,2019-03-25,110/70,220.0,,
+ Emily Davis ,70.0,Other,Heart Disease,NONE,2020-01-15,120/80,180.0,,123-456-7890
+ Laura Martinez ,60.0,Other,Hypertension,LISINOPRIL,2020-01-15,140/90,160.0,,
+ Robert Brown ,35.0,Male,Hypertension,NONE,2020-01-15,120/80,160.0,contact@domain.com,555-555-5555
+ Mary Clark ,35.0,Male,,LISINOPRIL,2020-01-15,110/70,180.0,contact@domain.com,
+ Jane Smith ,60.0,Female,,ALBUTEROL,2020-01-15,130/85,200.0,,
+ Laura Martinez ,70.0,Other,Asthma,METFORMIN,2020-01-15,140/90,160.0,,098-765-4321
+ James Taylor ,25.0,Female,Asthma,ALBUTEROL,2020-01-15,130/85,220.0,patient@example.com,
+ John Doe ,70.0,Male,Diabetes,ATORVASTATIN,2020-01-15,140/90,180.0,contact@domain.com,123-456-7890
+ Sarah Johnson ,60.0,Other,Heart Disease,METFORMIN,2020-01-15,110/70,180.0,contact@domain.com,
+ Robert Brown ,40.0,Female,Heart Disease,ALBUTEROL,2019-03-25,120/80,160.0,,123-456-7890
+ Michael Wilson ,25.0,Male,Asthma,NONE,2019-03-25,120/80,220.0,patient@example.com,555-555-5555
+ Laura Martinez ,40.0,Male,,ALBUTEROL,2020-01-15,140/90,220.0,contact@domain.com,
+ Jane Smith ,40.0,Male,Hypertension,ATORVASTATIN,2019-03-25,140/90,200.0,name@hospital.org,
+ Emily Davis ,40.0,Other,Hypertension,ATORVASTATIN,2020-01-15,130/85,200.0,contact@domain.com,
+ John Doe ,70.0,Male,Asthma,NONE,2020-01-15,140/90,200.0,name@hospital.org,123-456-7890
+ Sarah Johnson ,35.0,Other,,ATORVASTATIN,2020-01-15,140/90,200.0,patient@example.com,123-456-7890
+ Michael Wilson ,60.0,Female,,NONE,2020-01-15,120/80,200.0,patient@example.com,555-555-5555
+ Mary Clark ,70.0,Male,Hypertension,LISINOPRIL,2020-01-15,120/80,160.0,name@hospital.org,123-456-7890
+ Sarah Johnson ,40.0,Female,,LISINOPRIL,2019-03-25,130/85,220.0,patient@example.com,098-765-4321
+ Michael Wilson ,60.0,Female,Asthma,METFORMIN,2019-03-25,140/90,160.0,,
+ Emily Davis ,60.0,Other,Diabetes,ALBUTEROL,2019-03-25,120/80,200.0,contact@domain.com,123-456-7890
+ Laura Martinez ,70.0,Male,Asthma,METFORMIN,2020-01-15,130/85,220.0,contact@domain.com,555-555-5555
+ Michael Wilson ,60.0,Female,Hypertension,NONE,2019-03-25,120/80,160.0,contact@domain.com,
+ David Lee ,70.0,Female,Heart Disease,METFORMIN,2019-03-25,140/90,160.0,,
+ Michael Wilson ,25.0,Female,Heart Disease,ATORVASTATIN,2019-03-25,130/85,160.0,contact@domain.com,
+ James Taylor ,25.0,Female,Diabetes,NONE,2020-01-15,130/85,220.0,,123-456-7890
+ Laura Martinez ,35.0,Female,Asthma,ALBUTEROL,2019-03-25,130/85,220.0,name@hospital.org,123-456-7890
+ Robert Brown ,25.0,Male,Hypertension,LISINOPRIL,2020-01-15,110/70,200.0,name@hospital.org,
+ Jane Smith ,60.0,Other,Heart Disease,NONE,2019-03-25,110/70,200.0,,098-765-4321
+ Robert Brown ,40.0,Other,Diabetes,NONE,2019-03-25,130/85,180.0,contact@domain.com,123-456-7890
+ Robert Brown ,60.0,Female,Diabetes,LISINOPRIL,2020-01-15,130/85,200.0,,
+ Michael Wilson ,35.0,Male,Hypertension,NONE,2020-01-15,130/85,200.0,patient@example.com,098-765-4321
+ Robert Brown ,25.0,Female,Hypertension,METFORMIN,2019-03-25,140/90,180.0,,
+ Mary Clark ,25.0,Female,,METFORMIN,2019-03-25,140/90,200.0,name@hospital.org,123-456-7890
+ James Taylor ,25.0,Female,,ALBUTEROL,2020-01-15,120/80,180.0,patient@example.com,123-456-7890
+ Laura Martinez ,60.0,Male,Hypertension,ATORVASTATIN,2020-01-15,110/70,160.0,contact@domain.com,123-456-7890
+ Sarah Johnson ,25.0,Other,Hypertension,NONE,2019-03-25,130/85,200.0,patient@example.com,
+ John Doe ,35.0,Other,Hypertension,METFORMIN,2019-03-25,120/80,180.0,contact@domain.com,123-456-7890
+ John Doe ,60.0,Other,Heart Disease,ATORVASTATIN,2019-03-25,110/70,160.0,patient@example.com,123-456-7890
+ Laura Martinez ,40.0,Other,,ATORVASTATIN,2020-01-15,120/80,220.0,patient@example.com,
+ Sarah Johnson ,60.0,Female,,NONE,2020-01-15,110/70,180.0,patient@example.com,
+ Laura Martinez ,60.0,Male,Heart Disease,ATORVASTATIN,2020-01-15,120/80,180.0,patient@example.com,
+ Emily Davis ,60.0,Other,,METFORMIN,2020-01-15,120/80,220.0,patient@example.com,098-765-4321
+ James Taylor ,40.0,Other,,ATORVASTATIN,2019-03-25,130/85,220.0,,098-765-4321
+ John Doe ,35.0,Other,,ATORVASTATIN,2019-03-25,140/90,220.0,contact@domain.com,123-456-7890
+ Mary Clark ,25.0,Male,Hypertension,LISINOPRIL,2019-03-25,130/85,220.0,name@hospital.org,123-456-7890
+ Michael Wilson ,40.0,Male,Asthma,NONE,2020-01-15,130/85,160.0,,555-555-5555
+ Mary Clark ,60.0,Other,,ATORVASTATIN,2019-03-25,120/80,160.0,contact@domain.com,555-555-5555
+ Sarah Johnson ,35.0,Other,Diabetes,ALBUTEROL,2020-01-15,110/70,220.0,contact@domain.com,555-555-5555
+ Robert Brown ,40.0,Male,Heart Disease,ALBUTEROL,2019-03-25,110/70,180.0,name@hospital.org,
+ Mary Clark ,70.0,Female,Asthma,ATORVASTATIN,2019-03-25,110/70,160.0,patient@example.com,123-456-7890
+ Laura Martinez ,40.0,Male,Heart Disease,ALBUTEROL,2020-01-15,130/85,180.0,,123-456-7890
+ Sarah Johnson ,25.0,Female,Hypertension,METFORMIN,2019-03-25,130/85,200.0,,555-555-5555
+ Sarah Johnson ,40.0,Female,Diabetes,LISINOPRIL,2020-01-15,130/85,180.0,,555-555-5555
+ Laura Martinez ,35.0,Female,Diabetes,LISINOPRIL,2020-01-15,110/70,220.0,name@hospital.org,
