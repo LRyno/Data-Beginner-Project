@@ -1,0 +1,116 @@
+Food ID,Name,Calories,Ingredients,Country,Price,Rating,Available,Date Added
+F-037,sate ayam,2OO,"sambal, rice",Malaysia,IDR14000,"4,0",,01/01/21
+F-074,,350,"chili, peanut sauce",N/A,10.000,5,yes,
+F-074,Bakso ,,,Malaysia,,4.5,no,
+F-083,Bakso ,300.0,,indonesia,,excellent,yes,13 Jan 2021
+F-017,soto Ayam, 500 ,,Malaysia,"12,500",4.5,TRUE,
+F-085,soto Ayam,,"chili, peanut sauce",indonesia,"12,500","4,0",yes,2021-01-01
+F-078,sate ayam,1000,  ,indonesia,10.000,5,TRUE,13 Jan 2021
+F-073,,300.0,,,Rp 13.000,bad,N,
+F-110,Ayam Bakar,1000,  ,indonesia,,,,13 Jan 2021
+F-001,soto Ayam,n/a,,indonesia,N/A,excellent,False,
+F-051,Ayam Bakar, 500 ,"chili, peanut sauce",Thailand,15000,5,False,2021-01-01
+F-045,Nasi Goreng,n/a,  ,indonesia,"12,500","4,0",Y,
+F-077,soto Ayam,200,"chili, peanut sauce",indonesia,N/A,excellent,False,01/01/21
+F-004,Gado-Gado,n/a,"chili, peanut sauce", indo,N/A,3.8,TRUE,2021-01-01
+F-062,,200,,,IDR14000,4.5,,2022/03/05
+F-065,sate ayam,200,,indonesia,N/A,,yes,
+F-113,Nasi Goreng,300.0,,N/A,N/A,"4,0",TRUE,2021-01-01
+F-104,,1000,"chili, peanut sauce",Thailand,IDR14000,3.8,,01/01/21
+F-032,Gado-Gado,,"beef , noodle", indo,"12,500",,,01/01/21
+F-034,,n/a,"tofu ,vegetable",,N/A,5,False,
+F-092,Gado-Gado, 500 ,,,Rp 13.000,bad,,13 Jan 2021
+F-095,Gado-Gado,200,"tofu ,vegetable",indonesia,Rp 13.000,excellent,False,2021-01-01
+F-072,Ayam Bakar,1000,"tofu ,vegetable",indonesia,,4.5,yes,
+F-039,,350,,,IDR14000,excellent,no,2021-01-01
+F-026,Nasi Goreng,,,N/A,,,yes,03-05-2020
+F-051,,300.0,"beef , noodle",indonesia,IDR14000,5,N,13 Jan 2021
+F-034,Mie goreng,,"tofu ,vegetable", indo,,excellent,TRUE,
+F-054,Nasi Goreng,450kcal,"tofu ,vegetable",Malaysia,,4.5,Y,
+F-118,,300.0,"chili, peanut sauce",Thailand,N/A,5,no,2022/03/05
+F-003,Nasi Goreng,350,,Malaysia,15000,excellent,yes,
+F-050,Bakso ,,"tofu ,vegetable",,,bad,,2022/03/05
+F-012,Mie goreng,350,"sambal, rice",indonesia,15000,"4,0",no,
+F-065,,n/a,"beef , noodle",N/A,,5,TRUE,13 Jan 2021
+F-054,Ayam Bakar,200,  ,indonesia,10.000,"4,0",False,2021-01-01
+F-108,,,"sambal, rice",Thailand,,,no,2021-01-01
+F-005,rendang,2OO,"sambal, rice",indonesia,,5,False,13 Jan 2021
+F-094,,200,  ,indonesia,"12,500",bad,TRUE,
+F-094,sate ayam,2OO,,Thailand,N/A,"4,0",yes,01/01/21
+F-057,,,, indo,,3.8,TRUE,2021-01-01
+F-017,,1000,"beef , noodle", indo,"12,500",4.5,no,01/01/21
+F-112,Bakso ,450kcal,"sambal, rice",Thailand,Rp 13.000,3.8,,2021-01-01
+F-047,rendang, 500 ,"tofu ,vegetable",N/A,,excellent,,2021-01-01
+F-023,Bakso ,200,,,Rp 13.000,bad,no,
+F-079,rendang,,"beef , noodle",,15000,3.8,TRUE,
+F-101,sate ayam,350,"chili, peanut sauce",indonesia,15000,5,,03-05-2020
+F-085,,,  ,N/A,10.000,excellent,TRUE,2022/03/05
+F-014,Ayam Bakar,,"sambal, rice",indonesia,,excellent,,13 Jan 2021
+F-066,Bakso ,2OO,"beef , noodle",,,3.8,TRUE,13 Jan 2021
+F-075,Bakso ,350,"rice, egg, soy sauce",,Rp 13.000,,yes,13 Jan 2021
+F-051,Gado-Gado, 500 ,"rice, egg, soy sauce", indo,"12,500",3.8,Y,03-05-2020
+F-103,rendang, 500 ,,N/A,15000,,False,
+F-038,soto Ayam,200,  ,indonesia,,bad,False,
+F-064,,,,indonesia,15000,4.5,no,01/01/21
+F-098,rendang,1000,"tofu ,vegetable",,"12,500",3.8,Y,01/01/21
+F-038,Gado-Gado,,,indonesia,,,TRUE,
+F-050,Nasi Goreng,2OO,, indo,,,,03-05-2020
+F-098,rendang,,,,Rp 13.000,3.8,no,
+F-082,Ayam Bakar, 500 ,  , indo,Rp 13.000,"4,0",TRUE,13 Jan 2021
+F-030,,,,,,5,,2022/03/05
+F-079,Gado-Gado,,"chili, peanut sauce",indonesia,,,N,2021-01-01
+F-091,Nasi Goreng,,  ,,IDR14000,,TRUE,01/01/21
+F-051,Mie goreng, 500 ,"chili, peanut sauce",,N/A,,Y,
+F-063,Gado-Gado,300.0,  , indo,IDR14000,"4,0",no,
+F-098,Mie goreng,n/a,,,10.000,"4,0",Y,03-05-2020
+F-052,,2OO,"beef , noodle",,15000,excellent,no,
+F-050,Bakso ,300.0,"rice, egg, soy sauce",indonesia,,,TRUE,13 Jan 2021
+F-038,Gado-Gado,2OO,,Malaysia,Rp 13.000,4.5,yes,01/01/21
+F-097,sate ayam,350,,indonesia,"12,500",5,,
+F-088,Mie goreng,,"beef , noodle", indo,Rp 13.000,bad,TRUE,13 Jan 2021
+F-079,Ayam Bakar,,"rice, egg, soy sauce",indonesia,15000,,False,03-05-2020
+F-030,sate ayam,450kcal,"sambal, rice",N/A,IDR14000,bad,Y,13 Jan 2021
+F-119,,,"tofu ,vegetable",Malaysia,Rp 13.000,3.8,N,
+F-106,, 500 ,"chili, peanut sauce",Malaysia,N/A,3.8,N,2022/03/05
+F-051,Nasi Goreng,1000,"sambal, rice", indo,10.000,bad,,03-05-2020
+F-081,Bakso ,200,  ,Thailand,15000,3.8,no,2022/03/05
+F-005,,450kcal,"rice, egg, soy sauce",indonesia,IDR14000,4.5,Y,2021-01-01
+F-029,Gado-Gado,200,"sambal, rice",Malaysia,N/A,"4,0",,2022/03/05
+F-004,soto Ayam,2OO,"tofu ,vegetable", indo,"12,500",3.8,Y,2021-01-01
+F-010,Ayam Bakar,200,, indo,IDR14000,excellent,False,2021-01-01
+F-056,Mie goreng,200,"rice, egg, soy sauce",indonesia,,3.8,no,2022/03/05
+F-017,,450kcal,"sambal, rice",N/A,N/A,5,TRUE,03-05-2020
+F-074,sate ayam,350,"chili, peanut sauce",Thailand,N/A,4.5,TRUE,
+F-017,,,"chili, peanut sauce",indonesia,10.000,5,N,13 Jan 2021
+F-084,Ayam Bakar,,"beef , noodle",,15000,5,TRUE,13 Jan 2021
+F-088,soto Ayam,,"sambal, rice",,"12,500",excellent,TRUE,
+F-069,Gado-Gado, 500 ,,N/A,10.000,4.5,False,01/01/21
+F-034,Nasi Goreng,450kcal,"sambal, rice",N/A,IDR14000,4.5,yes,01/01/21
+F-006,soto Ayam, 500 ,,indonesia,10.000,,N,2021-01-01
+F-053,Ayam Bakar,1000,"rice, egg, soy sauce",,N/A,4.5,,2021-01-01
+F-066,soto Ayam,1000,"rice, egg, soy sauce",Malaysia,15000,4.5,,03-05-2020
+F-077,Ayam Bakar, 500 ,,Malaysia,,4.5,yes,
+F-107,Ayam Bakar,450kcal,"sambal, rice",indonesia,10.000,excellent,,2022/03/05
+F-043,rendang, 500 ,, indo,,3.8,no,2021-01-01
+F-112,Mie goreng,,"tofu ,vegetable",Malaysia,10.000,,yes,13 Jan 2021
+F-075,,300.0,  ,Thailand,IDR14000,5,False,03-05-2020
+F-115,rendang,n/a,,indonesia,IDR14000,4.5,,2022/03/05
+F-111,Gado-Gado,200,"chili, peanut sauce",N/A,"12,500",,no,03-05-2020
+F-050,rendang,n/a,,N/A,IDR14000,3.8,N,2022/03/05
+F-023,Bakso ,450kcal,"rice, egg, soy sauce",Thailand,Rp 13.000,3.8,,2022/03/05
+F-055,Bakso ,n/a,"chili, peanut sauce",,15000,5,no,
+F-080,,1000,"rice, egg, soy sauce",Malaysia,15000,excellent,TRUE,2021-01-01
+F-095,soto Ayam,2OO,"beef , noodle",N/A,,bad,Y,03-05-2020
+F-075,Mie goreng,200,,,,bad,no,03-05-2020
+F-118,,,"rice, egg, soy sauce",,15000,3.8,no,
+F-016,Ayam Bakar,450kcal,"chili, peanut sauce",indonesia,,"4,0",,13 Jan 2021
+F-008,sate ayam,200,"beef , noodle",indonesia,,"4,0",Y,13 Jan 2021
+F-004,Mie goreng,n/a,"rice, egg, soy sauce",N/A,"12,500",5,TRUE,01/01/21
+F-104,Mie goreng,1000,"tofu ,vegetable",indonesia,IDR14000,bad,,2021-01-01
+F-004,Ayam Bakar,350,,,15000,3.8,,2021-01-01
+F-325,Ayam Bakar,650kcal,,,15000,3.9,,2021-01-01
+F-056,Ayam Bakar,300.0,,N/A,N/A,excellent,no,
+F-025,Nasi Goreng,,"rice, egg, soy sauce",indonesia,,bad,False,
+F-067,,300.0,"beef , noodle",N/A,15000,3.8,False,13 Jan 2021
+F-096,Ayam Bakar,200,"tofu ,vegetable",,Rp 13.000,3.8,Y,2022/03/05
+F-067,Bakso ,1000,"sambal, rice",,10.000,4.5,Y,03-05-2020

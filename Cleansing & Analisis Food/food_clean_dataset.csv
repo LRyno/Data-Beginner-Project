@@ -1,0 +1,75 @@
+Food ID,Name,Calories,Ingredients,Country,Price,Rating,Available,Date Added
+F-037,Sate Ayam,,"sambal, rice",Malaysia,14000.0,4.0,,2021-01-01
+F-074,,350.0,"chili, peanut sauce",,10000.0,5.0,Yes,
+F-083,Bakso,300.0,,Indonesia,,5.0,Yes,2021-01-13
+F-017,Soto Ayam,500.0,,Malaysia,12500.0,4.5,Yes,
+F-085,Soto Ayam,,"chili, peanut sauce",Indonesia,12500.0,4.0,Yes,2021-01-01
+F-078,Sate Ayam,1000.0,,Indonesia,10000.0,5.0,Yes,2021-01-13
+F-073,,300.0,,,13000.0,,No,
+F-110,Ayam Bakar,1000.0,,Indonesia,,,,2021-01-13
+F-001,Soto Ayam,,,Indonesia,,5.0,No,
+F-051,Ayam Bakar,500.0,"chili, peanut sauce",Thailand,15000.0,5.0,No,2021-01-01
+F-045,Nasi Goreng,,,Indonesia,12500.0,4.0,Yes,
+F-077,Soto Ayam,200.0,"chili, peanut sauce",Indonesia,,5.0,No,2021-01-01
+F-004,Gado-Gado,,"chili, peanut sauce", Indonesia,,3.8,Yes,2021-01-01
+F-062,,200.0,,,14000.0,4.5,,2022-03-05
+F-065,Sate Ayam,200.0,,Indonesia,,,Yes,
+F-113,Nasi Goreng,300.0,,,,4.0,Yes,2021-01-01
+F-104,,1000.0,"chili, peanut sauce",Thailand,14000.0,3.8,,2021-01-01
+F-032,Gado-Gado,,"beef, noodle", Indonesia,12500.0,,,2021-01-01
+F-034,,,"tofu, vegetable",,,5.0,No,
+F-092,Gado-Gado,500.0,,,13000.0,,,2021-01-13
+F-095,Gado-Gado,200.0,"tofu, vegetable",Indonesia,13000.0,5.0,No,2021-01-01
+F-072,Ayam Bakar,1000.0,"tofu, vegetable",Indonesia,,4.5,Yes,
+F-039,,350.0,,,14000.0,5.0,No,2021-01-01
+F-026,Nasi Goreng,,,,,,Yes,2020-03-05
+F-054,Nasi Goreng,450.0,"tofu, vegetable",Malaysia,,4.5,Yes,
+F-118,,300.0,"chili, peanut sauce",Thailand,,5.0,No,2022-03-05
+F-003,Nasi Goreng,350.0,,Malaysia,15000.0,5.0,Yes,
+F-050,Bakso,,"tofu, vegetable",,,,,2022-03-05
+F-012,Mie Goreng,350.0,"sambal, rice",Indonesia,15000.0,4.0,No,
+F-108,,,"sambal, rice",Thailand,,,No,2021-01-01
+F-005,Rendang,,"sambal, rice",Indonesia,,5.0,No,2021-01-13
+F-094,,200.0,,Indonesia,12500.0,,Yes,
+F-057,,,, Indonesia,,3.8,Yes,2021-01-01
+F-112,Bakso,450.0,"sambal, rice",Thailand,13000.0,3.8,,2021-01-01
+F-047,Rendang,500.0,"tofu, vegetable",,,5.0,,2021-01-01
+F-023,Bakso,200.0,,,13000.0,,No,
+F-079,Rendang,,"beef, noodle",,15000.0,3.8,Yes,
+F-101,Sate Ayam,350.0,"chili, peanut sauce",Indonesia,15000.0,5.0,,2020-03-05
+F-014,Ayam Bakar,,"sambal, rice",Indonesia,,5.0,,2021-01-13
+F-066,Bakso,,"beef, noodle",,,3.8,Yes,2021-01-13
+F-075,Bakso,350.0,"rice, egg, soy sauce",,13000.0,,Yes,2021-01-13
+F-103,Rendang,500.0,,,15000.0,,No,
+F-038,Soto Ayam,200.0,,Indonesia,,,No,
+F-064,,,,Indonesia,15000.0,4.5,No,2021-01-01
+F-098,Rendang,1000.0,"tofu, vegetable",,12500.0,3.8,Yes,2021-01-01
+F-082,Ayam Bakar,500.0,, Indonesia,13000.0,4.0,Yes,2021-01-13
+F-030,,,,,,5.0,,2022-03-05
+F-091,Nasi Goreng,,,,14000.0,,Yes,2021-01-01
+F-063,Gado-Gado,300.0,, Indonesia,14000.0,4.0,No,
+F-052,,,"beef, noodle",,15000.0,5.0,No,
+F-097,Sate Ayam,350.0,,Indonesia,12500.0,5.0,,
+F-088,Mie Goreng,,"beef, noodle", Indonesia,13000.0,,Yes,2021-01-13
+F-119,,,"tofu, vegetable",Malaysia,13000.0,3.8,No,
+F-106,,500.0,"chili, peanut sauce",Malaysia,,3.8,No,2022-03-05
+F-081,Bakso,200.0,,Thailand,15000.0,3.8,No,2022-03-05
+F-029,Gado-Gado,200.0,"sambal, rice",Malaysia,,4.0,,2022-03-05
+F-010,Ayam Bakar,200.0,, Indonesia,14000.0,5.0,No,2021-01-01
+F-056,Mie Goreng,200.0,"rice, egg, soy sauce",Indonesia,,3.8,No,2022-03-05
+F-084,Ayam Bakar,,"beef, noodle",,15000.0,5.0,Yes,2021-01-13
+F-069,Gado-Gado,500.0,,,10000.0,4.5,No,2021-01-01
+F-006,Soto Ayam,500.0,,Indonesia,10000.0,,No,2021-01-01
+F-053,Ayam Bakar,1000.0,"rice, egg, soy sauce",,,4.5,,2021-01-01
+F-107,Ayam Bakar,450.0,"sambal, rice",Indonesia,10000.0,5.0,,2022-03-05
+F-043,Rendang,500.0,, Indonesia,,3.8,No,2021-01-01
+F-115,Rendang,,,Indonesia,14000.0,4.5,,2022-03-05
+F-111,Gado-Gado,200.0,"chili, peanut sauce",,12500.0,,No,2020-03-05
+F-055,Bakso,,"chili, peanut sauce",,15000.0,5.0,No,
+F-080,,1000.0,"rice, egg, soy sauce",Malaysia,15000.0,5.0,Yes,2021-01-01
+F-016,Ayam Bakar,450.0,"chili, peanut sauce",Indonesia,,4.0,,2021-01-13
+F-008,Sate Ayam,200.0,"beef, noodle",Indonesia,,4.0,Yes,2021-01-13
+F-325,Ayam Bakar,650.0,,,15000.0,3.9,,2021-01-01
+F-025,Nasi Goreng,,"rice, egg, soy sauce",Indonesia,,,No,
+F-067,,300.0,"beef, noodle",,15000.0,3.8,No,2021-01-13
+F-096,Ayam Bakar,200.0,"tofu, vegetable",,13000.0,3.8,Yes,2022-03-05
