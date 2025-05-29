@@ -33,6 +33,7 @@ Berikut adalah daftar proyek yang terdapat dalam repositori ini:
 * **Proyek 9:** Cleansing & Analisis Movies
 * **Proyek 10:** Cleansing & Analisis Healthcare
 * **Proyek 11:** Cleansing & Analisis IMDB
+* **Proyek 12:** Cleansing & Analisis IMDB
 
 ## Cara Menjalankan Proyek
 
