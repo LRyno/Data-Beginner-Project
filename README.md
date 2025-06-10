@@ -35,6 +35,11 @@ Berikut adalah daftar proyek yang terdapat dalam repositori ini:
 * **Proyek 11:** Cleansing & Analisis IMDB
 * **Proyek 12:** Cleansing & Analisis Food
 
+Berikut adalah daftar dokumen library dalam repositori ini:
+
+* **Matplotlib Document**
+* **Pandas Document**
+
 ## Cara Menjalankan Proyek
 
 Anda perlu menginstal Python dan pustaka yang dibutuhkan, seperti Pandas dan Matplotlib.
