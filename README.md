@@ -22,18 +22,14 @@ Repositori ini berisi berbagai proyek analisis data sederhana yang saya kerjakan
 
 Berikut adalah daftar proyek yang terdapat dalam repositori ini:
 
-* **Proyek 1:** Analisis Penjualan Sederhana
-* **Proyek 2:** Analisis Industri Aceh
-* **Proyek 3:** Analisis Customers
-* **Proyek 4:** Analisis Global Sales
-* **Proyek 5:** Cleansing & Analisis Customers Sederhana
-* **Proyek 6:** Cleansing & Analisis Artist
-* **Proyek 7:** Cleansing & Analisis E-Commerce
-* **Proyek 8:** Cleansing & Analisis Employee
-* **Proyek 9:** Cleansing & Analisis Movies
-* **Proyek 10:** Cleansing & Analisis Healthcare
-* **Proyek 11:** Cleansing & Analisis IMDB
-* **Proyek 12:** Cleansing & Analisis Food
+* **Project 1:** Folder Final Project
+* **Project 2:** Cleansing & Analisis Artist
+* **Project 3:** Cleansing & Analisis E-Commerce
+* **Project 4:** Cleansing & Analisis Employee
+* **Project 5:** Cleansing & Analisis Movies
+* **Project 6:** Cleansing & Analisis Healthcare
+* **Project 7:** Cleansing & Analisis IMDB
+* **Project 8:** Cleansing & Analisis Food
 
 Berikut adalah daftar dokumen library dalam repositori ini:
 
