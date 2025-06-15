@@ -5,7 +5,7 @@ Berisi kumpulan proyek latihan saya selama belajar analisis data. Tujuan dari re
 ## Daftar Isi
 
 * [Deskripsi](#deskripsi)
-* [Proyek](#proyek)
+* [Project](#project)
 * [Cara Menjalankan Proyek](#cara-menjalankan-proyek)
   
 ## Deskripsi
@@ -18,7 +18,7 @@ Repositori ini berisi berbagai proyek analisis data sederhana yang saya kerjakan
 * Visualisasi data dasar (bar chart, line chart, pie chart)
 * Feature extraction dan agregasi data
 
-## Proyek
+## Project
 
 Berikut adalah daftar proyek yang terdapat dalam repositori ini:
 
