@@ -35,6 +35,7 @@ Berikut adalah daftar dokumen library dalam repositori ini:
 
 * **Matplotlib Document**
 * **Pandas Document**
+* **Seaborn Document**
 
 ## Cara Menjalankan Proyek
 
